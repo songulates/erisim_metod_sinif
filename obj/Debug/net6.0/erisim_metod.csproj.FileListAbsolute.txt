@@ -1,0 +1,15 @@
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\bin\Debug\net6.0\erisim_metod.exe
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\bin\Debug\net6.0\erisim_metod.deps.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\bin\Debug\net6.0\erisim_metod.runtimeconfig.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\bin\Debug\net6.0\erisim_metod.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\bin\Debug\net6.0\erisim_metod.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\obj\Debug\net6.0\erisim_metod.csproj.AssemblyReference.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\obj\Debug\net6.0\erisim_metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\obj\Debug\net6.0\erisim_metod.AssemblyInfoInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\obj\Debug\net6.0\erisim_metod.AssemblyInfo.cs
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\obj\Debug\net6.0\erisim_metod.csproj.CoreCompileInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\obj\Debug\net6.0\erisim_metod.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\obj\Debug\net6.0\refint\erisim_metod.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\obj\Debug\net6.0\erisim_metod.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\obj\Debug\net6.0\erisim_metod.genruntimeconfig.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\erisim_metod\obj\Debug\net6.0\ref\erisim_metod.dll
